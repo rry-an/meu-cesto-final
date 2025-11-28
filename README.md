@@ -1,5 +1,7 @@
 # Meu Cesto - Sistema de Gestão de Feiras e Lojas
 
+https://www.canva.com/design/DAGpUG9tPIA/cSXlkP04vS7eH-HbtkvI_Q/edit
+
 ## 👥 Integrantes do Projeto
 Integrantes do Grupo:
 ● Izadora Ive Pereira Alves 22300538
@@ -240,4 +242,5 @@ class MinhaValidationStrategy implements ValidationStrategy {
 - **Padrões GoF:** Implementação correta e justificada de 4 padrões
 - **Segurança:** Senhas hasheadas, validação de entrada, proteção contra SQL injection
 - **Ética:** Conformidade com LGPD através de termos de consentimento
+
 
